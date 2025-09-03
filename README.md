@@ -31,7 +31,10 @@ I have hands-on experience in:
 |-----------|----------------------|-----------|----------------|--------------|
 | Python, PHP, JavaScript, SQL, HTML, CSS | Flask, FastAPI, Node.js (learning), React (learning) | PostgreSQL, SQL Server, MySQL, InfluxDB | Azure, Docker, CI/CD, cloud-native deployment | Software architecture, project scaling, cloud cost optimization, Agile/Scrum |
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+
 ---
+
 
 ## 💼 Current Role
 
