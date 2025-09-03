@@ -37,7 +37,7 @@ I have hands-on experience in:
 
 **Robert Bosch** — Software Engineer & Product Owner  
 
-- Lead AI & Automotive (Powertrain) projects as Product Owner  
+- AI & Automotive (Powertrain) projects as Product Owner  
 - Architect scalable, cloud-native solutions on **Azure**  
 - Manage multiple Azure subscriptions, optimize cost & performance  
 - Apply Scrum methodology to deliver incremental value to stakeholders  
